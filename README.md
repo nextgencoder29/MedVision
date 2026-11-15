@@ -1,3 +1,11 @@
+# MedVision
+
+Smartphone oral-lesion screening and follow-up for community health workers. Live: https://med-vision-snowy.vercel.app
+
+> **Team project.** Problem statement, research and system design: **Dinesh Raj P** ([@nextgencoder29](https://github.com/nextgencoder29))  
+> Implementation: **Trefan Kagoo** ([@trefann](https://github.com/trefann)) · original repository: https://github.com/trefann/MedVision  
+> Framing check (ghost-overlay alignment score with move-the-phone guidance, `lib/alignment.ts`): Dinesh Raj P
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
