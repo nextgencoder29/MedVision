@@ -1,0 +1,13 @@
+{
+  "images": 323,
+  "AUC": 0.891,
+  "AUC_95CI": "0.852-0.923",
+  "AUC_fold_mean_sd": "0.891 \u00b1 0.055",
+  "sensitivity": 0.81,
+  "specificity": 0.812,
+  "ECE": 0.165,
+  "TP": 128,
+  "FN": 30,
+  "TN": 134,
+  "FP": 31
+}
